@@ -61,3 +61,37 @@
 * https://kyon-mm.com
 * http://kyon-mm.hatenablog.com/
 * http://www.otr-jp.com/
+
+## YouTube動画
+
+### Episode1 - Kyon Mm (take1) #qshocking
+
+https://www.youtube.com/watch?v=AzzkQbRJmJM&t=614s
+
+```
+This is episode 1 on Quality Shocking channel. The gust is Kyon MM.
+
+https://kyon-mm.com/
+http://kyon-mm.hatenablog.com/
+株式会社オンザロード http://www.otr-jp.com/
+
+Q. Why do you choose .NET?
+A. A customer chose it.
+Integration and system testing is more important than unit testing on TDD.
+Firstly write test for web API, secondly implement the API.
+It means interface first style.
+We should create prototype to get the interface.
+Right product stands on third implementation.
+Kyon's team needs only ONE DAY for the third implementation!
+Kyon's team splint is built on fractal. The minimum is 15 minutes!
+The 15 minutes splint closes with "minutes report" which is very short summary for the splint. It's useful for short communication.
+Q. Why do you choose "15 minites"?
+A. Just for today. We {will,may} choose shorter splint.
+Q. If ticket system broadcasts E-mail, such mail is replacement for very short splint?
+A. No. Nobody can read such too many mails. We needs the summary.
+https://en.wikipedia.org/wiki/Mock_object
+Q. How to keep quality of semi-realtime application?
+A. We cover it with specification, which derives testing and documentation.
+
+Scenario in Japanese: https://github.com/quality-shocking/scenarios/blob/master/scenarios/0-kyonmm/
+```
