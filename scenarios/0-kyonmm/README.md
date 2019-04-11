@@ -61,8 +61,9 @@
 * https://kyon-mm.com
 * http://kyon-mm.hatenablog.com/
 * http://www.otr-jp.com/
-*  超Scrum入門〜未完成フラクタルと15minSprint〜 #RSGT2019
+* 超Scrum入門〜未完成フラクタルと15minSprint〜 #RSGT2019
  https://speakerdeck.com/kyonmm/chao-scrumru-men-wei-wan-cheng-hurakutaruto15minsprint-number-rsgt2019
+* xUnit Test PatternsのTest Doubleパターン(Mock、Stub、Fake、Dummy等の定義) http://goyoki.hatenablog.com/entry/20120301/1330608789
 
 ## YouTube動画
 
