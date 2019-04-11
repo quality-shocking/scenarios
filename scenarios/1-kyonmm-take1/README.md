@@ -56,24 +56,29 @@ http://kyon-mm.hatenablog.com/
 
 Q. Why do you choose .NET?
 A. A customer chose it.
+
 Integration and system testing is more important than unit testing on TDD.
 Firstly write test for web API, secondly implement the API.
 It means interface first style.
 We should create prototype to get the interface.
 Right product stands on third implementation.
 Kyon's team needs only ONE DAY for the third implementation!
+
 Kyon's team sprint is built on fractal. The minimum is 15 minutes!
 A way to the 15 minute sprint. https://speakerdeck.com/kyonmm/chao-scrumru-men-wei-wan-cheng-hurakutaruto15minsprint-number-rsgt2019
 The 15 minutes sprint closes with "minutes report" which is very short summary for the sprint. It's useful for short communication.
+
 Q. Why do you choose "15 minites"?
 A. Just for today. We {will,may} choose shorter sprint.
+
 Q. If ticket system broadcasts E-mail, such mail is replacement for very short splint?
 A. No. Nobody can read such too many mails. We need the summary.
+
 https://en.wikipedia.org/wiki/Mock_object
 http://goyoki.hatenablog.com/entry/20120301/1330608789
+
 Q. How to keep quality of semi-realtime application?
-A. We cover it with specification, which derives testing and documentation.
-http://kyon-mm.hatenablog.com/entry/2017/12/16/100000
+A. We cover it with specification, which derives testing and documentation. http://kyon-mm.hatenablog.com/entry/2017/12/16/100000
 
 Scenario in Japanese: https://github.com/quality-shocking/scenarios/blob/master/scenarios/1-kyonmm-take1/
 ```
