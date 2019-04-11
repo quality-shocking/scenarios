@@ -64,6 +64,7 @@
 * 超Scrum入門〜未完成フラクタルと15minSprint〜 #RSGT2019
  https://speakerdeck.com/kyonmm/chao-scrumru-men-wei-wan-cheng-hurakutaruto15minsprint-number-rsgt2019
 * xUnit Test PatternsのTest Doubleパターン(Mock、Stub、Fake、Dummy等の定義) http://goyoki.hatenablog.com/entry/20120301/1330608789
+* Spockのレポート生成はHTML, Markdown, Asciidocできるし、カスタムも出来るんだぜ http://kyon-mm.hatenablog.com/entry/2017/12/16/100000
 
 ## YouTube動画
 
