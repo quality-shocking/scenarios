@@ -61,6 +61,8 @@
 * https://kyon-mm.com
 * http://kyon-mm.hatenablog.com/
 * http://www.otr-jp.com/
+*  超Scrum入門〜未完成フラクタルと15minSprint〜 #RSGT2019
+ https://speakerdeck.com/kyonmm/chao-scrumru-men-wei-wan-cheng-hurakutaruto15minsprint-number-rsgt2019
 
 ## YouTube動画
 
