@@ -26,7 +26,7 @@
   * TDD界隈で、TCRという手法が考案されていま議論があついです。test && commit || revertの略になっています。https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
 * テスト可能な対象物とテストでは検査できない対象物の区別
 * IDEの有無は品質にどう影響するか
-* 今Groovyってどんな塩梅ですか？Kotlinとかが最近は流行ってそう？
+* 今Groovyってどんな塩梅ですか？
 
 ## クロージング
 
