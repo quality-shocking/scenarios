@@ -86,10 +86,10 @@ It means interface first style.
 We should create prototype to get the interface.
 Right product stands on third implementation.
 Kyon's team needs only ONE DAY for the third implementation!
-Kyon's team splint is built on fractal. The minimum is 15 minutes!
-The 15 minutes splint closes with "minutes report" which is very short summary for the splint. It's useful for short communication.
+Kyon's team sprint is built on fractal. The minimum is 15 minutes!
+The 15 minutes sprint closes with "minutes report" which is very short summary for the sprint. It's useful for short communication.
 Q. Why do you choose "15 minites"?
-A. Just for today. We {will,may} choose shorter splint.
+A. Just for today. We {will,may} choose shorter sprint.
 Q. If ticket system broadcasts E-mail, such mail is replacement for very short splint?
 A. No. Nobody can read such too many mails. We needs the summary.
 https://en.wikipedia.org/wiki/Mock_object
