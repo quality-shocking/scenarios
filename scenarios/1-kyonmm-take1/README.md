@@ -1,4 +1,4 @@
-# #0 Kyon Mm
+# Episode1 - Kyon Mm (take1)
 
 (書き方の例として[テンプレート](../../template/README.md)を参照してください)
 
@@ -30,31 +30,8 @@
   * デイリーであらためてコードレビュー
   * いわゆる非機能要件によって設計を決定する
 * 15分スプリントって、短かすぎないですか、、、やはり2週間が妥当なのでは。。。
-* 実は開発プロセスの選定は製品の品質に莫大な影響を与えうる
-  * ROI高く品質をあげることがもとめられる
-  * どうやって防ぐか、どうやって検知するか の両方を効率よくおこなう必要がある。
-  * 誰かが楽に管理できるプロセスではなくて全体が楽になるプロセスを設計する
-* 良いスクラムと悪いスクラム
-* どうやったら悪いスクラムに陥ってしまっていることを自発的に気づけるのか
-* テスティング手法最前線(機械学習のテスト/分散システム/bashのテスト/自動テスト/テスト駆動開発)
-  * TDD界隈で、TCRという手法が考案されていま議論があついです。test && commit || revertの略になっています。https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
 * .NETの処理系の動きを自社でかなり解析しているとbleisさんが発言したことがあったと記憶しています。そのニーズはどこにあったのでしょうか？
   * とあるフレームワークの開発保守でいわゆるアスペクト指向的にログを自動ではさむフレームワークなどを開発していた。そのときにF# の式木をさわって実現していたので詳しくなった。
-* テスト可能な対象物とテストでは検査できない対象物の区別
-* IDEの有無は品質にどう影響するか
-* 今Groovyってどんな塩梅ですか？Kotlinとかが最近は流行ってそう？
-* その他今おすすめのツール
-
-## 雑談タイム
-
-* ソフトウェアの品質について時間いっぱいまでブレーンストーミング
-
-## クロージング
-
-* ホスト「と盛り上ってきたところで時間が来てしまいました。最後に一言ありますでしょうか？」
-* ゲスト「XXX」
-* ホスト/ゲスト「ありがとうございました!」
-* ホスト「もし気に入っていただけたらチャンネル登録よろしくお願いします」
 
 ## (YouTubeページ下へ付記する)リンク集
 
@@ -68,12 +45,10 @@
 
 ## YouTube動画
 
-### Episode1 - Kyon Mm (take1) #qshocking
-
 https://www.youtube.com/watch?v=AzzkQbRJmJM&t=614s
 
 ```
-This is episode 1 on Quality Shocking channel. The gust is Kyon MM.
+This is episode 1 on Quality Shocking channel. The guest is Kyon MM.
 
 https://kyon-mm.com/
 http://kyon-mm.hatenablog.com/
@@ -88,14 +63,17 @@ We should create prototype to get the interface.
 Right product stands on third implementation.
 Kyon's team needs only ONE DAY for the third implementation!
 Kyon's team sprint is built on fractal. The minimum is 15 minutes!
+A way to the 15 minute sprint. https://speakerdeck.com/kyonmm/chao-scrumru-men-wei-wan-cheng-hurakutaruto15minsprint-number-rsgt2019
 The 15 minutes sprint closes with "minutes report" which is very short summary for the sprint. It's useful for short communication.
 Q. Why do you choose "15 minites"?
 A. Just for today. We {will,may} choose shorter sprint.
 Q. If ticket system broadcasts E-mail, such mail is replacement for very short splint?
-A. No. Nobody can read such too many mails. We needs the summary.
+A. No. Nobody can read such too many mails. We need the summary.
 https://en.wikipedia.org/wiki/Mock_object
+http://goyoki.hatenablog.com/entry/20120301/1330608789
 Q. How to keep quality of semi-realtime application?
 A. We cover it with specification, which derives testing and documentation.
+http://kyon-mm.hatenablog.com/entry/2017/12/16/100000
 
-Scenario in Japanese: https://github.com/quality-shocking/scenarios/blob/master/scenarios/0-kyonmm/
+Scenario in Japanese: https://github.com/quality-shocking/scenarios/blob/master/scenarios/1-kyonmm-take1/
 ```
