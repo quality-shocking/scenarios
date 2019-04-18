@@ -6,10 +6,10 @@
 
 * 時間: xxx 未定
 * 会議室: xxx 未定
-    * 案1: [東京都千代田区神田須田町2-3-1 NBF神田須田町ビル7F](https://goo.gl/maps/8R75fjgvfrG2) [永和システムマネジメントコワーキングスペース](https://www.esm.co.jp/coworking/) - スマートロボティクスから近い。@kuboakiさんに会場を貸してもらえるか聞いてみる必要がある。会議室でお酒飲めないかも
-    * 案2: スマートロボティクス - 課外活動に会議室を貸してもらえるか？yksymさんがリラックスできないのではないか？
+    * 案1: [東京都千代田区神田須田町2-3-1 NBF神田須田町ビル7F](https://goo.gl/maps/8R75fjgvfrG2) [永和システムマネジメントコワーキングスペース](https://www.esm.co.jp/coworking/) - yksymさん職場から近い。@kuboakiさんに会場を貸してもらえるか聞いてみる必要がある。会議室でお酒飲めないかも
+    * 案2: yksymさん職場 - 課外活動に会議室を貸してもらえるか？yksymさんがリラックスできないのではないか？
     * 案3: どこかのレンタル会議室 - 予約がめんどうかも。会議室代が高価かも。会議室でお酒飲めないかも
-    * 案4: [masterqの自宅](https://goo.gl/maps/zQSpnnbtemZrSVTT7) - スマートロボティクスからもyksymさん宅からも遠い。 http://www.tdm1874brewery.com/ でyksymさんの好みのお酒を物色できる
+    * 案4: [masterqの自宅](https://goo.gl/maps/zQSpnnbtemZrSVTT7) - yksymさん職場からもyksymさん宅からも遠い。 http://www.tdm1874brewery.com/ でyksymさんの好みのお酒を物色できる
 * 集合時間/場所: xxx 未定
 * 緊急連絡先: 090-3524-7064
 
