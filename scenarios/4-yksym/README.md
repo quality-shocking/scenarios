@@ -11,14 +11,9 @@
 
 ## 収録場所/日時
 
-* 時間: xxx 未定。とにかくyksymさんの家庭の状況で良い日を調整すべき
-* 会議室: xxx 未定
-    * 案1: [東京都千代田区神田須田町2-3-1 NBF神田須田町ビル7F](https://goo.gl/maps/8R75fjgvfrG2) [永和システムマネジメントコワーキングスペース](https://www.esm.co.jp/coworking/) - yksymさん職場から近い。@kuboakiさんに会場を貸してもらえるか聞いてみる必要がある。会議室でお酒飲めないかも
-    * 案2: yksymさん職場 - 課外活動に会議室を貸してもらえるか？yksymさんがリラックスできないのではないか？
-    * 案3: どこかのレンタル会議室([スペースマーケット](https://www.spacemarket.com/),[スペイシー](https://www.spacee.jp/)) - 予約がめんどうかも。会議室代が高価かも。会議室でお酒飲めないかも
-    * 案4: [masterqの自宅](https://goo.gl/maps/zQSpnnbtemZrSVTT7) - yksymさん職場からもyksymさん宅からも遠い。 http://www.tdm1874brewery.com/ でyksymさんの好みのお酒を物色できる
-    * 案5: [完全個室居酒屋@秋葉原](https://r.gnavi.co.jp/area/aream2200/izakaya/kods00066/rs/) - 雑音が入らないか気になる。あらかじめヒアリングが必要そう
-* 集合時間/場所: xxx 未定
+* 時間: 2019-04-27 18:30-21:00
+* 会議室: yksymさん職場
+* 集合時間/場所: 2019-04-27 18:30 [ビック酒販 AKIBA店](https://goo.gl/maps/vJUegmvrcPT2cGkn9)
 * 緊急連絡先: 090-3524-7064
 
 ## 番組の紹介
