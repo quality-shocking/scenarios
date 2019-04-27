@@ -11,9 +11,9 @@
 
 ## 収録場所/日時
 
-* 時間: 2019-04-27 18:30-21:00
+* 時間: xxx 再調整中
 * 会議室: yksymさん職場
-* 集合時間/場所: 2019-04-27 18:30 [ビック酒販 AKIBA店](https://goo.gl/maps/vJUegmvrcPT2cGkn9)
+* 集合時間/場所: xxx [ビック酒販 AKIBA店](https://goo.gl/maps/vJUegmvrcPT2cGkn9)
 * 緊急連絡先: 090-3524-7064
 
 ## 番組の紹介
