@@ -28,7 +28,6 @@
   * 柔軟なテストダブルWebAPIアプリケーション
   * 性能テスト
   * デイリーであらためてコードレビュー
-  * いわゆる非機能要件によって設計を決定する
 * 15分スプリントって、短かすぎないですか、、、やはり2週間が妥当なのでは。。。
 * .NETの処理系の動きを自社でかなり解析しているとbleisさんが発言したことがあったと記憶しています。そのニーズはどこにあったのでしょうか？
   * とあるフレームワークの開発保守でいわゆるアスペクト指向的にログを自動ではさむフレームワークなどを開発していた。そのときにF# の式木をさわって実現していたので詳しくなった。
@@ -45,7 +44,7 @@
 
 ## YouTube動画
 
-https://www.youtube.com/watch?v=AzzkQbRJmJM&t=614s
+https://www.youtube.com/watch?v=AzzkQbRJmJM
 
 ```
 This is episode 1 on Quality Shocking channel. The guest is Kyon MM.
