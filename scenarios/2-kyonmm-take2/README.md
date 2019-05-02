@@ -47,7 +47,7 @@
 https://www.youtube.com/watch?v=lkB4K1zKaUs
 
 ```
-This is episode 1 on Quality Shocking channel. The guest is Kyon MM.
+This is episode 2 on Quality Shocking channel. The guest is Kyon MM.
 
 https://kyon-mm.com/
 http://kyon-mm.hatenablog.com/
