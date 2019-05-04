@@ -1,6 +1,6 @@
 # quality-shocking - scenarios
 
-YouTube番組[クオリティショッキング](https://www.youtube.com/channel/UCRdJ2SVfd2BaBO0mMmfVJeg/)のシナリオ集。
+YouTube番組[クオリティショッキング](http://bit.ly/qshocking)のシナリオ集。
 
 * [テンプレート](./template/README.md)
 * [Episode1 - Kyon Mm (take1)](./scenarios/1-kyonmm-take1/README.md)
