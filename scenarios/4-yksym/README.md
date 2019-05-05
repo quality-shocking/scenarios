@@ -49,6 +49,7 @@
     * xxx 当日までにmasterqがprimalspecとFDRを味見する必要がある
     * FDRではなくなぜ自作CSP処理系を作ろうと思ったのか？
     * primalspecのメリット/デメリット
+    * SyncStitchじゃダメだったんですか？
 * TLA+を組み込み開発で運用してみた話
     * なぜ自作CSP実装を止めてTLA+に移行したのか
     * 他のモデル検査とTLA+の(素人にも理解できる)比較
