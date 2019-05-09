@@ -39,7 +39,7 @@
 xxx リンク
 
 ```
-This is episode 1 on Quality Shocking channel. The guest is Shin Kuboaki.
+This is episode 3 on Quality Shocking channel. The guest is Shin Kuboaki.
 
 https://www.facebook.com/kuboaki
 株式会社チェンジビジョン http://www.change-vision.com/
