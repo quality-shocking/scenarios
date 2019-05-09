@@ -36,7 +36,7 @@
 
 ## YouTube動画
 
-xxx リンク
+https://www.youtube.com/watch?v=de2B_Ovqt88
 
 ```
 This is episode 3 on Quality Shocking channel. The guest is Shin Kuboaki.
