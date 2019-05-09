@@ -1,4 +1,4 @@
-# #1 Shin Kuboaki
+# Episode3 - Shin Kuboaki (take1)
 
 (書き方の例として[テンプレート](../../template/README.md)を参照してください)
 
