@@ -58,3 +58,30 @@
 ## YouTube動画
 
 xxx 未だ
+
+```
+This is episode 4 on Quality Shocking channel. The guest is Shin Kuboaki.
+
+https://www.facebook.com/kuboaki
+株式会社チェンジビジョン http://www.change-vision.com/
+
+Object-oriented programming https://en.wikipedia.org/wiki/Object-oriented_programming
+Functional programming https://en.wikipedia.org/wiki/Functional_programming
+The Scala Programming Language https://www.scala-lang.org/
+Ruby Programming Language https://www.ruby-lang.org/en/
+class Array - Documentation for Ruby 2.6.0 https://docs.ruby-lang.org/en/2.6.0/Array.html
+Ruby on Rails https://rubyonrails.org/
+David Heinemeier Hansson (DHH) https://dhh.dk/
+Sinatra http://sinatrarb.com/
+Cookpad https://cookpad.com/
+Twitter: From Ruby on Rails to the JVM https://www.youtube.com/watch?v=ohHdZXnsNi8
+KonMari – Founded by Marie Kondo. https://konmari.com/
+ISO 26262 https://en.wikipedia.org/wiki/ISO_26262
+Mindstorms LEGO.com https://www.lego.com/en-us/mindstorms
+What is LabVIEW? - National Instruments http://www.ni.com/en-us/shop/labview.html
+Scratch - Imagine, Program, Share https://scratch.mit.edu/
+Arduino - Software https://www.arduino.cc/en/Main/Software
+Astah UML http://astah.net/editions/uml-new
+
+Scenario in Japanese: https://github.com/quality-shocking/scenarios/blob/master/scenarios/4-kuboaki-take2/
+```
