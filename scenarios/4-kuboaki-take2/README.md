@@ -57,7 +57,7 @@
 
 ## YouTube動画
 
-xxx 未だ
+https://www.youtube.com/watch?v=LDv9_qaTV3w
 
 ```
 This is episode 4 on Quality Shocking channel. The guest is Shin Kuboaki.
