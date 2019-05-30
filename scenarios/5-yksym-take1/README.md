@@ -61,7 +61,7 @@
 
 ## YouTube動画
 
-xxx 未だ
+https://www.youtube.com/watch?v=khGzBTg--1E
 
 ```
 This is episode 5 on Quality Shocking channel. The guest is Yksym.
