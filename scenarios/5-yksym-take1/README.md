@@ -78,5 +78,5 @@ IEEE 982.1-2005 https://standards.ieee.org/standard/982_1-2005.html
 Stakeholder https://en.wikipedia.org/wiki/Stakeholder_(corporate)
 ソフトウェア要求 https://www.amazon.co.jp/dp/4891003545
 
-Scenario in Japanese: https://github.com/quality-shocking/scenarios/blob/master/scenarios/4-yksym-take1/
+Scenario in Japanese: https://github.com/quality-shocking/scenarios/blob/master/scenarios/5-yksym-take1/
 ```
