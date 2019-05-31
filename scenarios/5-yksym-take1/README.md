@@ -57,7 +57,6 @@
 
 * http://yksym.github.io/
 * https://github.com/yksym
-* https://github.com/yksym/primalspec
 
 ## YouTube動画
 
